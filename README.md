@@ -1,2 +1,2 @@
-Cocos2d-JS-v3-Tutorial-76---UILoadingBar
+Cocos2d-JS-v3-Tutorial-77---UILoadingBar
 ========================================
